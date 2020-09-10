@@ -2,10 +2,10 @@
 
 ## Topics
 
-- database modeling.
-- migration scripts.
-- seeding.
-- knex.
+x- database modeling.
+x- migration scripts.
+x- seeding.
+x- knex.
 
 ## Assignment
 
